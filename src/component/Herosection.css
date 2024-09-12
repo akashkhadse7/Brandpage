@@ -1,0 +1,64 @@
+.hero-image img{
+    width: 500px;
+    height: 500px;
+  }
+  
+  .hero{
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: calc(100vh - 60px);
+  }
+  
+  .hero__container{
+  
+    /* height: 200px; */
+    width: 50%;
+    margin-left: 90px;
+  }
+  .hero h1{
+    /* background-color: #5A5959; */
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 100px;
+   
+  }
+  
+  .hero p{
+    height: 91px;
+    width: 404px;
+    font-weight: 600;
+    color: #5A5959;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  
+  
+  .btnred{
+    background-color: red;
+   
+  }
+  .btnnon{
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    margin-left: 15px;
+  }
+  
+  .shopsite p{
+    font-size: 16px;
+    height: 22px;
+  }
+  
+  .flipkart{
+   
+   height: 20px;
+   width: 20px;
+  }
+  .amazon{
+    padding-left: 20px;
+    height: 20px;
+    width: 20px;
+   }
